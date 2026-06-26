@@ -20,10 +20,11 @@
 - Data Structures & Algorithms (C++)
 
 🎯 Goal:
-- Crack a **30+ LPA Software Engineering Job**
-- Build impactful real-world applications
-- Become an excellent Full-Stack Developer
-
+- Build scalable and impactful software.
+- Contribute to open-source projects.
+- Continuously improve as a Full-Stack Developer.
+- Solve real-world problems through technology.
+  
 ---
 
 ## 🚀 Tech Stack
